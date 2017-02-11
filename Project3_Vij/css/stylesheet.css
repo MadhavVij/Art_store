@@ -1,0 +1,60 @@
+.navbar-static-top {
+  margin-bottom: 20px;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 50px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 50px;
+  background-color: #f5f5f5;
+}
+
+.highlite{
+  background-color: yellow;
+}
+
+.gyphHead{
+  font-size: 20px;
+}
+
+.gyphText{
+  font-size: 12px;
+}
+
+#1a{
+  margin-left:75px;
+}
+
+#search1{
+  margin-left:75px;
+}
+
+#input_title, #input_desc{
+  display:none
+}
+
+.about1{
+  margin-top: 10%
+}
+
+.about2{
+  padding-left:10%
+}
+
+#error1{
+  margin-top: 10%;
+}
+
+#error2{
+  margin-left: 2%;
+}
