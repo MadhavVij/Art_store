@@ -6,6 +6,7 @@ Website Developed in PHP, retrieving images from database and can perform basic 
 #################     Instruction To Run The Project      #################
 *
 *
+Please extract the images from art.zip before running the project
 Software Stack Used: XAMPP
 **
 *PHP Version: 7.0.9
